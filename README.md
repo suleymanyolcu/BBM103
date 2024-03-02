@@ -6,20 +6,21 @@ This repository contains the assignments and related materials for the programmi
 
 
 ## Doctor's Aid
-
-The Doctor's Aid assignment focuses on 2D Lists, File IO operations, functions, and probability. Briefly describe the assignment, including specific instructions and objectives.
+This assignment focuses on a probability-based decision system called Doctor’s Aid for clinicians.
+including 2D Lists, File IO operations, functions, and probability.
 
 ## Football Ticket System
-
-The Football Ticket System assignment focuses on file operations, lists, functions, and dictionaries. Provide a brief overview of the assignment, including any specific instructions and objectives.
+This assignment focuses on a console-based basic Football ticketing system
+including file operations, lists, functions, and dictionaries. 
 
 ## Battle of Ships
-
-The Battle of Ships assignment focuses on multi-dimensional lists, game design, exception handling, and functions. Include details about the assignment, its structure, and any unique features.
+This assignment is Battleship (also known as Battleships or Sea Battle) is a strategy-type guessing game for
+two players. It is played on ruled grids (paper or board) on which each player’s fleet of
+warships is marked. The Battle of Ships assignment focuses on multi-dimensional lists, game design, exception handling, and functions.
 
 ## Personality Classification
-
-The Personality Classification assignment involves machine learning, k-nearest neighbor algorithm, classification, and data science libraries such as pandas, numpy, and matplotlib. Provide an overview of the assignment, including specific instructions and objectives.
+This assignment  focuses on K-Nearest Neighbor Algorithm to classify different personality types (16 personalities) of people.
+This assignment involves machine learning, k-nearest neighbor algorithm, classification, and data science libraries such as pandas, numpy, and matplotlib. 
 
 
 ## Requirements
